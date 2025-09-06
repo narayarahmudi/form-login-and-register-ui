@@ -4,7 +4,7 @@ Demo's Link : https://naraya-login-register-ui.netlify.app/
 You can use it for your project, actually I made it while watching on YouTube tutorial, but nevermind, besides that I also understand the fundamentals, and it's fun
 
 ## Screenshot :
-[Login Page Form]([https://imgur.com/a/UH9ZXsA](https://i.imgur.com/uFoBP9x.png))
+[Login Page Form](https://i.imgur.com/uFoBP9x.png)
 
 ## HTML :
 ```html
